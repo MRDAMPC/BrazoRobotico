@@ -1,6 +1,8 @@
 # Proyecto Final: Brazo Robótico
-*Miguel Pablo Juárez Sánchez (Esclavo I)*
-*Diego Isaac Hurtado Miguel (Sclavus II)*
+*Miguel Pablo Juárez Sánchez (Esclavo I)
+*
+*Diego Isaac Hurtado Miguel (Sclavus II)
+*
 *Ricardo Francisco Rodríguez Ramírez*
 
 ## Objetivo
