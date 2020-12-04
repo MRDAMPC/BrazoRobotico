@@ -1,4 +1,5 @@
 # Proyecto Final: Brazo Robótico
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 *Miguel Pablo Juárez Sánchez (Esclavo I)*
 *Diego Isaac Hurtado Miguel (Sclavus II)*
 *Ricardo Francisco Rodríguez Ramírez*
