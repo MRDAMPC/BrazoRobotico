@@ -1,4 +1,5 @@
-# Proyecto Final: Brazo Robótico ![](https://mextudia.com/wp-content/uploads/2017/12/lasalle-700x321.jpg)
+![](https://mextudia.com/wp-content/uploads/2017/12/lasalle-700x321.jpg)
+# Proyecto Final: Brazo Robótico 
 *Miguel Pablo Juárez Sánchez (Esclavo I)*
 *Diego Isaac Hurtado Miguel (Sclavus II)*
 *Ricardo Francisco Rodríguez Ramírez*
