@@ -1,4 +1,4 @@
-# Proyecto Final: Brazo Robótico![](https://www.ijf.cjf.gob.mx/Sitio2016/include/sections/biblioteca/Convenios/Salle/salle.png)
+# Proyecto Final: Brazo Robótico ![](https://www.ijf.cjf.gob.mx/Sitio2016/include/sections/biblioteca/Convenios/Salle/salle.png)
 *Miguel Pablo Juárez Sánchez (Esclavo I)*
 *Diego Isaac Hurtado Miguel (Sclavus II)*
 *Ricardo Francisco Rodríguez Ramírez*
