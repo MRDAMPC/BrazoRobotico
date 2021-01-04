@@ -25,12 +25,13 @@ El proyecto consiste de los siguientes apartados:
 ### Materiales
 
 Para la construccion del brazo robótico, se necesitarán los siguientes materiales:
+
 **-Electrónica**
   -L298N: El L298 es un puente H que soporta hasta 4A de corriente continua y hasta 35V. Usualmente es utilizado para controlar dos motores dc, pero también se puede controlar un 
     a pasos si se alimenta con las dos salidas de motor dual, por lo que necesitaremos tres de ellos para controlar las tres articulaciones. Se utilizará el siguiente breakout         board para L298, disponible en:
     ![](https://www.geekfactory.mx/wp-content/uploads/2013/06/modulo-l298n-puente-h-driver-motores.jpg)
-    >L298 Break-Out Board
+>L298 Break-Out Board
     ![](https://www.makerguides.com/wp-content/uploads/2019/05/l298n-motor-driver-with-stepper-motor-and-arduino-wiring-diagram-schematic-pinout.jpg)
-    >Conexión del L298 con un motor a pasos
+>Conexión del L298 con un motor a pasos
     
   
