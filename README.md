@@ -29,12 +29,26 @@ Para la construccion del brazo robótico, se necesitarán los siguientes materia
 **Electrónica**
 
   - L298N: El L298 es un puente H que soporta hasta 4A de corriente continua y hasta 35V. Usualmente es utilizado para controlar dos motores dc, pero también se puede controlar un 
-    a pasos si se alimenta con las dos salidas de motor dual, por lo que necesitaremos tres de ellos para controlar las tres articulaciones. Se utilizará el siguiente breakout         board para L298, disponible en:
+    a pasos si se alimenta con las dos salidas de motor dual, por lo que necesitaremos tres de ellos para controlar las tres articulaciones. Se utilizará el siguiente breakout         board para L298, disponible en `<link>`:<https://sandorobotics.com/producto/hr0112/> :
     
 ![](https://www.geekfactory.mx/wp-content/uploads/2013/06/modulo-l298n-puente-h-driver-motores.jpg)
  >L298 Break-Out Board
  
 ![](https://www.makerguides.com/wp-content/uploads/2019/05/l298n-motor-driver-with-stepper-motor-and-arduino-wiring-diagram-schematic-pinout.jpg)
  >Conexión del L298 con un motor a pasos
+ 
+  - Motor a Pasos: Se pretende utilizar, para las tres articulaciones, tres motores a pasos Pololu, bipolares de 2A por fase y 3.6V a tensión nomina, de tamaño NEMA23 y eje tipo     D, disponible en `<link>`:<https://sandorobotics.com/producto/1473/> :
+  
+![](https://sandorobotics.com/wp-content/uploads/2020/07/0J4736.1200.jpg)
+ >Motor a pasos Pololu
+ 
+  - Arduino MEGA: La parte de control, se llevará a cabo con ayuda de un Arduino MEGA, el cual tiene puertos digitales suficientes para controlar los tres motores a pasos,con la     posibilidad de agregar encoders, para retroalimentar el sistema, ya que también cuenta con puertos analógicos y con protocolo de comunicación $$I^2C$$, que pueden ser de         gran ayuda, disponible en `<link>`:<https://sandorobotics.com/producto/sd-a067/> :
+  
+![](https://sandorobotics.com/wp-content/uploads/2017/09/arduino-mega-2560-r3-generico-con-cable-usb-atmega2560-16au-D_NQ_NP_461011-MEC20451432743_102015-F.jpg)
+ >Arduino MEGA
+ 
+**Mecánica**
+
+  - 
     
   
