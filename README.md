@@ -49,6 +49,6 @@ Para la construccion del brazo robótico, se necesitarán los siguientes materia
  
 **Mecánica**
 
-  - 
+  - Se pretende utilizar una impresora 3D, y con ayuda de AutoCAD Inventor y Slicer, imprimir la estructura del brazo robótico.
     
   
