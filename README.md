@@ -4,6 +4,16 @@
 *Diego Isaac Hurtado Miguel (Sclavus II)*
 *Ricardo Francisco Rodríguez Ramírez*
 
+
+
+### Estructura del Proyecto
+
+El proyecto consiste de los siguientes apartados:
+  - Documentación
+  - Programa de MATLAB
+  - Datasheets
+  - Recursos Teóricos
+
 ### Objetivo
 
 Realizar un programa que permita automatizar el procedimiento de cinemática directa de Denavit Hartenberg para calcular la posición de los eslabones de un brazo robótico de tipo cartesiano.
@@ -14,13 +24,9 @@ El brazo robótico que se desarrollará es de tipo cartesiano de tres grados de 
 ![](https://www.udesantiagovirtual.cl/moodle2/pluginfile.php?file=/55549/mod_book/chapter/224/figuras/Ch2_fig2-7a.png)
 >Robot Cartesiano
 
-### Estructura del Proyecto
+### Contexto Teórico
 
-El proyecto consiste de los siguientes apartados:
-  - Documentación
-  - Programa de MATLAB
-  - Datasheets
-  - Recursos Teóricos
+
 
 ### Materiales
 
