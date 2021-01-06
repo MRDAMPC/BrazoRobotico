@@ -26,7 +26,15 @@ El brazo robótico que se desarrollará es de tipo cartesiano de tres grados de 
 
 ### Contexto Teórico
 
+**¿Qué es un robot cartesiano?**
 
+La topología cartesiana es la más extendida en los robots utilizados en la industria. El robot cartesiano es el robot más simple, pudiendo ser fácilmente comprendido por el usuario dado que, como su nombre indica, el esquema de su movimiento se basa en el sistema de ejes cartesianos X-Y-Z tan bien conocido. Por otra parte también es el robot más fácil de concebir y fabricar porque su producción es tan sencilla como ir acoplando múltiples actuadores lineales unos sobre otros perpendicularmente. Indudablemente también es una de las construcciones más económicas.
+El nombre del roboti, indica que sus movimientos son lineles y que sus articulaciones se mueven a lo largo de una linea recta *(ejes cartesianos)*.ésto es posible gracias a que se componen de actuadores lineales que permiten dicho movimiento.
+
+**Fabricantes**
+
+Actualmente, los fabricantes más famosos de robots cartesianos son Shibaura Machine, Shibaura es una compañía americana que antes era japonesa de nombre Toshiba Machine, quienes los fabrican para la industria desde 1986. Sus robots están diseñados para tener gran confiabilidad, eficiencia y simplicidad para trabajar con ellos.
+Otros fabricantes de robots cartesianos, son Omron y Yamaha, aunque en menor medida.
 
 ### Materiales
 
@@ -57,4 +65,9 @@ Para la construccion del brazo robótico, se necesitarán los siguientes materia
 
   - Se pretende utilizar una impresora 3D, y con ayuda de AutoCAD Inventor y Slicer, imprimir la estructura del brazo robótico.
     
+### Referencias
+
+  - Robot Cartesiano. (s. f.). Larraioz. Recuperado 5 de enero de 2021, de `<link>`:<https://larraioz.com/iai/productos/robots-cartesianos>
+  - Collins, D. (2018, 8 octubre). What is a Cartesian Robot? linearmotiontips. `<link>`:<https://www.linearmotiontips.com/what-is-a-cartesian-robot/>
+  
   
