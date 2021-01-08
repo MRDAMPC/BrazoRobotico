@@ -64,6 +64,10 @@ Para la construccion del brazo robótico, se necesitarán los siguientes materia
 **Mecánica**
 
   - Se pretende utilizar una impresora 3D, y con ayuda de AutoCAD Inventor y Slicer, imprimir la estructura del brazo robótico.
+  
+## Matlab y Arduino
+  
+  Se utilizará Matlab para automatizar y simular el proceso de cálculo de la cinemática directa del robot, con ayuda de Robotics Toolbox de Peter Corke                           `<link>`:<https://petercorke.com/toolboxes/robotics-toolbox/> y se pretende conectar con protocolo de comunicación serial, el arduino con Matlab mediante la librería de Mathworks `<link>`:<https://www.mathworks.com/hardware-support/arduino-matlab.html> . La simulación del circuito y el código de arduino se trabajarán en Tinkercad.
     
 ### Referencias
 
